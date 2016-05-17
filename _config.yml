@@ -1,8 +1,7 @@
 name: Curing Wendigo
 favicon: null
-layout_spectrum: 0.2059
-typography_spectrum: 0.07457
-title: Curing Wendigo
+layout_spectrum: 0.8431675522588193
+typography_spectrum: 0.2577039038296789
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#607031'
-    - '#4ea5af'
-    - '#a7cfd6'
-    - '#929a75'
-  brandStrength: 0.875
-  lightness: 0.5122554884292185
-  saturation: 0.17873228690586984
-  rhythmicContrast: 0.5742561011575162
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3904209032189101
+  lightness: 0.18803006783127785
+  saturation: 0.0863631796091795
+  rhythmicContrast: 0.9329854915849864
 purpose: []
